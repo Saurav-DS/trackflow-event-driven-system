@@ -17,11 +17,11 @@ cd docker
 docker compose up -d
 ```
 This starts:
-Zookeeper → localhost:2181
-Kafka Broker → localhost:9092
-Kafka UI Dashboard → http://localhost:8085
+- Zookeeper → localhost:2181
+- Kafka Broker → localhost:9092
+- Kafka UI Dashboard → http://localhost:8085
 
 This stops:
-docker compose down
-or
-docker stop <CONTAINER ID>
+- docker compose down
+- or
+- docker stop <CONTAINER ID>
