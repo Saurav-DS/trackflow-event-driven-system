@@ -11,8 +11,6 @@ docker compose version
 docker info
 ```
 
- ---
-
 ## 2. Start Kafka Stack
 ```bash
 cd docker
